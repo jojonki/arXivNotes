@@ -5,4 +5,4 @@
 またここで読んだ論文の中でも，面白かったものは，私のpodcast，[Leading NLP Ninja](https://anchor.fm/lnlp-ninja)でも配信しています．良ければ聞いてみて下さい．
 
 
-THE CONTENTS OF THIS REPOSITRY ARE WRITTEN IN JAPNESE.
+THE CONTENTS OF THIS REPOSITRY ARE WRITTEN IN JAPANESE.
